@@ -3,7 +3,7 @@ Mautic-Joomla plugin
 
 This [Joomla](http://joomla.org) Plugin lets you add the [Mautic](http://mautic.org) tracking gif image to your Joomla website and embed Mautic forms in Joomla content. If you authorize this plugin as the Mautic API application, plugin will be able to push data from Joomla registration form to Mautic as a Lead.
 
-This plugin is compatible with Joomla 2.5.x and Joomla 3.x.x.
+This plugin is compatible with Joomla 4.4.10 and Mautic 5.2.1.
 
 ### Mautic Tracking Image
 
